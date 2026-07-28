@@ -116,9 +116,9 @@ credit_scoring_model.pkl
 
 **Aditya Kumar Saini**
 
-B.Tech CSE (AI & ML)
+B.Tech CSE (AI & ML).
 
-CodeAlpha Machine Learning Internship
+CodeAlpha Machine Learning Internship 
 
 ---
 
